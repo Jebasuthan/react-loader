@@ -22,6 +22,51 @@ You will also see any lint errors in the console.
 3. Customize your Loader with changing Color, Background Color, Width and Height
 4. No external libraries
 
+## Options
+ 
+ <table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Type</th>
+<th>Required</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>loading</td>
+<td>Boolean</td>
+<td>Required</td>
+<td>To Show/Hide the loader based on the propery</td>
+</tr>
+<tr>
+<td>height</td>
+<td>Number</td>
+<td>Required</td>
+<td>Height of the loader. Default value is <code>10</code></td>
+</tr>
+<tr>
+<td>width</td>
+<td>Number</td>
+<td>Required</td>
+<td>Width of the loader. Default value is <code>10</code></td>
+</tr>
+<tr>
+<td>color</td>
+<td>String</td>
+<td>Required</td>
+<td>Color of the loader. Default value is <code>#ff0000</code></td>
+</tr>
+<tr>
+<td>background</td>
+<td>String</td>
+<td>Required</td>
+<td>Background Color of the loader. Default value is <code>#ffffff</code></td>
+</tr>
+</tbody>
+</table>
+
 ## Screenshots:
 ![react-loader gif](https://user-images.githubusercontent.com/3702438/147038548-750c37a2-44fc-4428-bfcf-ae121b47f6bb.gif)
 ![react-loader 1](https://user-images.githubusercontent.com/3702438/147038576-f7b037ca-182f-43bb-8edd-7e0874bda906.png)
