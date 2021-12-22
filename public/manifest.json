@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Loader",
+  "name": "Create your own React Loader Component",
   "icons": [
     {
       "src": "favicon.ico",

@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.form-control {
+  line-height: 2;
+}
+h2 {
+  text-decoration: underline;
+}
 
 @keyframes App-logo-spin {
   from {
