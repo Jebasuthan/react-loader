@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 ## Features available in the applilcation:
 1. Individual components
 2. Loader added
-3. Customize the loader Loader with changing Color, Background Color, Width and Height
+3. Customize your Loader with changing Color, Background Color, Width and Height
 4. No external libraries
 
 ## Screenshots:
